@@ -6,4 +6,3 @@ def longest_word(file):
     print("Longest word is: {}. num of chars: {}".format(longestWord, len(longestWord[0])))
     return(len(longestWord[0]))
 
-longest_word('test.txt')
